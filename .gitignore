@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# stops data being downloaded 
+go_benchmark*
+go_funcs_*
